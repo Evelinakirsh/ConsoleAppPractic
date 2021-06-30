@@ -11,6 +11,7 @@ namespace ConsoleAppPractic
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, my friend");
+            Console.WriteLine("How are you?");
             Console.ReadKey();
         }
     }
